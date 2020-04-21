@@ -1,2 +1,2 @@
 # capstone
-Data Science Capstone Repositore
+Data Science Capstone Repository
